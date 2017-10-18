@@ -5,4 +5,12 @@ package com.example.normagarcia.paraborrar;
  */
 
 public class OtraClase {
+
+    public OtraClase() {
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
